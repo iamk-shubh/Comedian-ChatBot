@@ -36,13 +36,13 @@ Create a .env file in the project root directory and add your OpenAI API Key:
 Step 5: Run the Application
 The main entry point of the chatbot is app.py.
 Start the chatbot by running:
-- python app.py
+- python app1.py
 
 Project Structure 📁
 
 comedian-chatbot/
 │
-├── app.py # Main application script (starting point)
+├── app1.py # Main application script (starting point)
 ├── requirements.txt # List of all Python dependencies
 ├── .env # Environment variables (contains the API key)
 └── README.md # Project documentation
